@@ -1,0 +1,1 @@
+web: gunicorn 'IT_CENTER.wsgi'
